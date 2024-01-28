@@ -10,11 +10,11 @@ Depends: deepin-desktop-base | deepin-desktop-server, deepin-default-settings, d
 Recommends: dde-qt5wayland-plugin, deepin-devicemanager, deepin-boot-maker, deepin-reader, deepin-log-viewer, dde-introduction, spark-store, uengine, com.gitee.uengine.runner.spark, spark-deepin-wine-runner, deepin-editor, deepin-system-monitor, pppoe, gvfs-fuse, smbclient, python-smbc, cups-filters, printer-driver-all, foomatic-db-compressed-ppds, foomatic-db-engine, openprinting-ppds, libsane-hpaio, linux-firmware, wireless-tools, ttf-deepin-opensymbol, deepin-terminal | gnome-terminal, printer-driver-hpcups, printer-driver-hpijs, libmtp-runtime, samsung-print, open-vm-tools-desktop, open-vm-tools, usbmuxd, ipheth-utils, libimobiledevice-dev, libimobiledevice-utils, dnsutils, libfile-mimeinfo-perl, deepin-shortcut-viewer, crda, network-manager-integration-plugins, dde-manual-content, libtxc-dxtn-s2tc0 | libtxc-dxtn-s2tc, libflashplugin-pepper, x-display-manager, deepin-music, deepin-image-viewer, dde-calendar, deepin-calculator, deepin-voice-note, deepin-screen-recorder, deepin-font-manager, deepin-draw, deepin-album, deepin-movie, deepin-deb-installer, deepin-compressor, fcitx-sunpinyin, fcitx-ui-classic, deepin-fcitxconfigtool-plugin
 Conflicts: dde-control-center (<< 2.90.5), deepin-appstore, deepin-cloud-scanner, deepin-desktop-environment-desktop, deepin-desktop-environment-dock, deepin-desktop-environment-launcher, deepin-user-experience-daemon, deepin-voice-recorder, mincores-dkms, org.deepin.browser (<< 5.3.0.48), printer-driver-deepin-cloud-print, warm-sched
 Filename: ./d/debiandde/debiandde_20~2024.01.28_all.deb
-Size: 3472
-MD5sum: a1949fe2e11ab82d0b9ecd2ce82397fa
-SHA1: 4289a07ed23d6749aa5e9c835115ab46b0f4aa31
-SHA256: 1692b925110805667168500f9d825af9e32932f7114fe038df94ea3a926ab9e4
-SHA512: 32f27c65a2c35f799318095587969f2e0bec368cea1d706ab28f3a5f1cfc63815c20ae8bf55116a13665e338ac72f846458af5cf70c346394f823906baeffcf4
+Size: 3512
+MD5sum: 48ac5ff56aca1aacaccca5adecd94135
+SHA1: f9614f11bede9e0de9678e8500e3966ad6eecd71
+SHA256: 2d9145fb977beaa45c3087738e0a83ac100e45c4f81c1e9cb79cbb327eaec972
+SHA512: 1db49de5f8c32c3eb59e26f1b07fa232ac46bacc4a279bde85ddb97601a9bc5a6160fa56b267c74807c7301ea22259b320dc4b07c818ebd13b7d42695cf3cf81
 Homepage: http://www.linuxdeepin.com
 Description: Deepin New Desktop Environment - Next
  This is a meta package depends Deepin New Desktop Envrionment.
