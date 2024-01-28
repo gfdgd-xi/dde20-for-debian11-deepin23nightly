@@ -4,16 +4,16 @@ Version: 2024.01.28-deepin
 Priority: optional
 Section: misc
 Maintainer: gfdgd xi<3025613752@qq.com>, Deepin Sysdev <sysdev@deepin.com>
-Installed-Size: 146
+Installed-Size: 144
 Provides: deepin-appstore-config
 Depends: deepin-keyring, distro-info-data, eject, fonts-noto, fonts-symbola
 Conflicts: deepin-desktop-server
 Filename: ./d/deepin-desktop-base/deepin-desktop-base_2024.01.28-deepin_amd64.deb
-Size: 25620
-MD5sum: 0d103136ec3ffe53ae79e960f5893be8
-SHA1: 7c7e72d10c6e5738c0e296901a42959dfd04cb28
-SHA256: 1626a0e4412ff133093130075dafcec90f2597754f78ac9b8f7d3b2ea0847441
-SHA512: e5588106f12c564f698c581cdca6a48e7d9bd8ab1d223c7cdc666259e9f31c243d51cc7535453e476c03f7f2f05012418f7fd76e6fb148b49b05f1124d2b122a
+Size: 25224
+MD5sum: e942289a4e86b5d3ac71ea476ece9de4
+SHA1: a05138eb291cc05e385be144635cca8f3c43ba9b
+SHA256: d95cbd6256738f50b2c098def287f171e0af81070a30e11380db7366fd6fe1be
+SHA512: 4b620094843d4d52d445fe3359240b947ea782f2b7634dcb5bac7e28d1255371776f7b62cee828ad2316b738a96ad5fc0aada0056996d2afb058d1bff9f0cc7c
 Description: The basic file of Deepin Desktop,
  provides system attribute description for DDE components
 
