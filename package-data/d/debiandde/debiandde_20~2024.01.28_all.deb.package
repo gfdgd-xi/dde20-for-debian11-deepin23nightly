@@ -6,15 +6,15 @@ Section: metapackages
 Source: dde
 Maintainer: LinuxDeepin Project <linuxdeepin@linuxdeepin.com>
 Installed-Size: 15
-Depends: deepin-desktop-base | deepin-desktop-server, deepin-default-settings, dde-desktop, dde-dock, dde-launcher, dde-control-center (>> 2.90.5), startdde, dde-session-ui, deepin-artwork, deepin-manual, dde-file-manager, dde-qt5integration, eject, plymouth-theme-deepin-logo, deepin-wallpapers, fonts-noto, deepin-fix-init, dde-kwin, dde-clipboard, deepin-screensaver, dde-printer, dde-grand-search, deepin-pre-package, org.deepin.browser (>> 5.3.0.47-1), dde-dconfig-daemon, deepin-face, systemd-timesyncd
+Depends: deepin-desktop-base | deepin-desktop-server, deepin-default-settings, dde-desktop, dde-dock, dde-launcher, dde-control-center (>> 2.90.5), startdde, dde-session-ui, deepin-artwork, deepin-manual, dde-file-manager, dde-qt5integration, eject, plymouth-theme-deepin-logo, debian-dde-wallpapers, fonts-noto, deepin-fix-init, dde-kwin, dde-clipboard, deepin-screensaver, dde-printer, dde-grand-search, deepin-pre-package, org.deepin.browser (>> 5.3.0.47-1), dde-dconfig-daemon, deepin-face, systemd-timesyncd
 Recommends: dde-qt5wayland-plugin, deepin-devicemanager, deepin-boot-maker, deepin-reader, deepin-log-viewer, dde-introduction, spark-store, uengine, com.gitee.uengine.runner.spark, spark-deepin-wine-runner, deepin-editor, deepin-system-monitor, pppoe, gvfs-fuse, smbclient, python-smbc, cups-filters, printer-driver-all, foomatic-db-compressed-ppds, foomatic-db-engine, openprinting-ppds, libsane-hpaio, linux-firmware, wireless-tools, ttf-deepin-opensymbol, deepin-terminal | gnome-terminal, printer-driver-hpcups, printer-driver-hpijs, libmtp-runtime, samsung-print, open-vm-tools-desktop, open-vm-tools, usbmuxd, ipheth-utils, libimobiledevice-dev, libimobiledevice-utils, dnsutils, libfile-mimeinfo-perl, deepin-shortcut-viewer, crda, network-manager-integration-plugins, dde-manual-content, libtxc-dxtn-s2tc0 | libtxc-dxtn-s2tc, libflashplugin-pepper, x-display-manager, deepin-music, deepin-image-viewer, dde-calendar, deepin-calculator, deepin-voice-note, deepin-screen-recorder, deepin-font-manager, deepin-draw, deepin-album, deepin-movie, deepin-deb-installer, deepin-compressor, fcitx-sunpinyin, fcitx-ui-classic, deepin-fcitxconfigtool-plugin
 Conflicts: dde-control-center (<< 2.90.5), deepin-appstore, deepin-cloud-scanner, deepin-desktop-environment-desktop, deepin-desktop-environment-dock, deepin-desktop-environment-launcher, deepin-user-experience-daemon, deepin-voice-recorder, mincores-dkms, org.deepin.browser (<< 5.3.0.48), printer-driver-deepin-cloud-print, warm-sched
 Filename: ./d/debiandde/debiandde_20~2024.01.28_all.deb
-Size: 3540
-MD5sum: 0bb81d882ce63fa4f6aba69638bae76f
-SHA1: 7968466d93511ea92598cdb013af845806b4e8d9
-SHA256: 68e717308c7ebb83613005a3c3560d1281a153636bcb56f94d54621446585d6a
-SHA512: 57a6520799e3b67a4629c6258ca174d6a1ec5bc65d93168517177e01cce9672bcb7656e2bc6832e91f6e1c742836d68004c624c9c34190eca23a93c5bdda0464
+Size: 3472
+MD5sum: a1949fe2e11ab82d0b9ecd2ce82397fa
+SHA1: 4289a07ed23d6749aa5e9c835115ab46b0f4aa31
+SHA256: 1692b925110805667168500f9d825af9e32932f7114fe038df94ea3a926ab9e4
+SHA512: 32f27c65a2c35f799318095587969f2e0bec368cea1d706ab28f3a5f1cfc63815c20ae8bf55116a13665e338ac72f846458af5cf70c346394f823906baeffcf4
 Homepage: http://www.linuxdeepin.com
 Description: Deepin New Desktop Environment - Next
  This is a meta package depends Deepin New Desktop Envrionment.
