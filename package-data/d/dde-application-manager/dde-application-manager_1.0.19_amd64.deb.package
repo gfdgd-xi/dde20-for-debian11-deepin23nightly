@@ -1,0 +1,17 @@
+Package: dde-application-manager
+Architecture: amd64
+Version: 1.0.19
+Priority: optional
+Section: devel
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 1521
+Filename: ./d/dde-application-manager/dde-application-manager_1.0.19_amd64.deb
+Size: 413636
+MD5sum: 35975c8c40c34063e49394f9ae8e3419
+SHA1: f2b3d58be9452c046337ad97959a192205c3e8ea
+SHA256: af58edfa33bca337a6f26181a3e800ed5be713f75deba9813709202aac252454
+SHA512: 1ab1553993cdac3e30b4f42dad4615956e16807df218d657c5d7220f867508fa44902a33e807c4543b5f79a267f5b43b6f42fa020c220da5a2b21c885a541dd1
+Homepage: https://www.deepin.org
+Description: dde application manager module
+ Application manager for DDE.
+
