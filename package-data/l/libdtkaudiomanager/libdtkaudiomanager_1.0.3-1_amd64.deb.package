@@ -1,0 +1,19 @@
+Package: libdtkaudiomanager
+Architecture: amd64
+Version: 1.0.3-1
+Priority: optional
+Section: libdevel
+Source: dtkaudiomanager
+Maintainer: Packages Builder <packages@deepin.com>
+Installed-Size: 519
+Filename: ./l/libdtkaudiomanager/libdtkaudiomanager_1.0.3-1_amd64.deb
+Size: 108680
+MD5sum: 86b372d0083d5088e9159f84566e7757
+SHA1: bbeeaed5b6e39ca05c566cdd179c11832b878bbc
+SHA256: ced0bf1aeb6ee5701abb8a62a4f1c4e59cdbf6ebe45ff9ef5b78596ef3a7d48f
+SHA512: 2fea525561857baa1a20441bcc625b701d47ed56b2681d6a69e395525a57fc8f6e1d7d9a952025e03a221a6645d670039a5e7169b07525031f4f003a585b9bf1
+Description: Deepin Tool Kit template library
+ libdtkaudiomanager is base library of Deepin Qt/C++ applications.
+ .
+ This package contains the shared libraries.
+

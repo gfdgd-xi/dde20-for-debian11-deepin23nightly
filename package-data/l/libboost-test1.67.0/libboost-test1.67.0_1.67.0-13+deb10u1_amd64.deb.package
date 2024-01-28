@@ -1,0 +1,25 @@
+Package: libboost-test1.67.0
+Architecture: amd64
+Version: 1.67.0-13+deb10u1
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: boost1.67
+Maintainer: Debian Boost Team <team+boost@tracker.debian.org>
+Installed-Size: 2889
+Depends: libboost-system1.67.0, libboost-timer1.67.0, libc6 (>= 2.14), libgcc1 (>= 1:3.0), libstdc++6 (>= 5.2)
+Filename: ./l/libboost-test1.67.0/libboost-test1.67.0_1.67.0-13+deb10u1_amd64.deb
+Size: 456208
+MD5sum: d72f46f3cebf7760793a60508e899e93
+SHA1: 7dc6fe6c5393e238c27d0fe8e0903f5ff21cae8d
+SHA256: 2be16731975a66bda5ccc91737bd4e2cab10aa51b89f57705b6ae5f73601d77b
+SHA512: 7fa0e00d4e2aae11da257ba29d0ae9270fe45d21825dabb3c69c02444bca02a17f4c0ddff3e960dac789eddcd6d993edec014b93271f05fb253b34271e84a9fb
+Homepage: http://www.boost.org/libs/test/
+Description: components for writing and executing test suites
+ This package forms part of the Boost C++ Libraries collection.  The
+ library contains several components.
+ .
+  * Basic execution, error detection, and reporting facility.
+  * Facilities to monitor program execution and produce error reports.
+  * Unit test framework to simplify writing test cases.
+

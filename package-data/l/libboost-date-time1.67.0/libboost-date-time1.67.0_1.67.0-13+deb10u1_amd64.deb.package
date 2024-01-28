@@ -1,0 +1,23 @@
+Package: libboost-date-time1.67.0
+Architecture: amd64
+Version: 1.67.0-13+deb10u1
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: boost1.67
+Maintainer: Debian Boost Team <team+boost@tracker.debian.org>
+Installed-Size: 2078
+Depends: libc6 (>= 2.14), libgcc1 (>= 1:3.0), libstdc++6 (>= 5.2)
+Filename: ./l/libboost-date-time1.67.0/libboost-date-time1.67.0_1.67.0-13+deb10u1_amd64.deb
+Size: 238776
+MD5sum: 3a5e745ec59c6d97d897156f67f36e32
+SHA1: dcc6e0a05dd9c96280df82d47c2097527d72bb94
+SHA256: 60da755429be76252d7e02c664ee999156f3e1e61ae3ab1f8b949dc9bec63082
+SHA512: 91b73ba1de6f92de935da142cc744cbbfa092bbaa5c8f64aa79fd98942804e3797c3a6d274d69738d73aecd8154f4a52eba914b37842d54ae4a8f109cad649fb
+Homepage: http://www.boost.org/libs/date_time/
+Description: set of date-time libraries based on generic programming concepts
+ This package forms part of the Boost C++ Libraries collection.
+ .
+ These libraries are intended to make programming with dates and times
+ almost as simple and natural as programming with strings and integers.
+

@@ -1,0 +1,26 @@
+Package: erofs-utils
+Architecture: amd64
+Version: 1.5.2-1
+Priority: optional
+Section: admin
+Maintainer: Gao Xiang <xiang@kernel.org>
+Installed-Size: 121
+Filename: ./e/erofs-utils/erofs-utils_1.5.2-1_amd64.deb
+Size: 31640
+MD5sum: cf438dd215499e71c5a8c0304536b91f
+SHA1: d71f900d919acd7cb74a261efea7d787554a83b1
+SHA256: 20c55bb70beb809b4fb05ab37a53ca6340547b961c7bd879c86c6d1a2b9c5835
+SHA512: 78cde4f507f7cd35641ea2ecfd469be7785f745718fed65f11a772cbc1f31cd200220699978de2fb20b0fe84facc23ddb6ffc42724bc24c9edd3b12a64a1a5bc
+Homepage: http://git.kernel.org/pub/scm/linux/kernel/git/xiang/erofs-utils.git
+Description: Utilities for EROFS File System
+ EROFS (Enhanced Read-Only File System) is a lightweight
+ read-only file system with modern designs (eg. page-sized
+ blocks, inline xattrs/data, etc.) for scenarios which need
+ high-performance read-only requirements, e.g. Android OS
+ for smartphones and LIVECDs.
+ .
+ It also provides fixed-sized output compression support,
+ which improves storage density, keeps relatively higher
+ compression ratios, which is more useful to achieve high
+ performance for embedded devices with limited memory.
+

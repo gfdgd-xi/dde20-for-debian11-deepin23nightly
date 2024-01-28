@@ -1,0 +1,19 @@
+Package: deepin-voice-note
+Architecture: amd64
+Version: 6.0.7
+Priority: optional
+Section: devel
+Maintainer: deepin <packages@deepin.com>
+Installed-Size: 18528
+Depends: gstreamer1.0-plugins-good, vlc-plugin-base, gstreamer1.0-pulseaudio
+Recommends: uos-reporter, deepin-event-log
+Filename: ./d/deepin-voice-note/deepin-voice-note_6.0.7_amd64.deb
+Size: 13453020
+MD5sum: bb6ef3acd60526066c3fc0505750219c
+SHA1: d70737bcbaceefdee7efeebc4e32189575036822
+SHA256: 412a09f5eebde60e0748804071bfb067ae383e15dad547e87ae8ba8ea295c146
+SHA512: 360fabce425926d762f1adee3c95b68c13d7431aaf05f52fb9916e8fcbd974c82e1a06a180044d28352009015627f976597ec7d3b6bb12bb1c6316243088cec2
+Homepage: <insert the upstream URL, if relevant>
+Description: Voice Notes is a lightweight memo tool to make text notes and voice recordings
+  Voice Notes is a simple memo software with texts and voice recordings. You are able to save the recordings as MP3 format or texts.
+

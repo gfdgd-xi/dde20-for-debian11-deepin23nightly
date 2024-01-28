@@ -1,0 +1,21 @@
+Package: dde-dconfig-editor
+Architecture: amd64
+Version: 0.0.20-1
+Priority: optional
+Section: libdevel
+Source: dde-app-services
+Maintainer: Deepin Packages Builder <yeshanshan@uniontech.com>
+Installed-Size: 315
+Depends: libc6 (>= 2.14), libdtkcore5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 5)
+Conflicts: dconfig-editor
+Replaces: dconfig-editor
+Filename: ./d/dde-dconfig-editor/dde-dconfig-editor_0.0.20-1_amd64.deb
+Size: 96232
+MD5sum: d1bc6b6a8fc4f33b32a641ebe93945e4
+SHA1: 63999302296a3ac1436598610f83a8821dc66406
+SHA256: c33f29bae45c3f3c2af8d4090fe45fd504cb5e3910e9e815bcc6039bfbb773fa
+SHA512: 091224b2b85f98268424aa4e8ab68c8922676a647e2b67496c5170b407af5a11e8f643e6c8d712d9e17230d5aa1d6f5a5ef1c3f0a0c35e8a4f5b79fa86b945ba
+Description: deepin desktop-environment - dde-dconfig-editor module
+ dde-dconfig-editor is a GUI or Console tool, it's used to view and edit
+ DSG configuration for current user.
+

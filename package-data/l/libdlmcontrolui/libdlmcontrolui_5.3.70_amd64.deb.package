@@ -1,0 +1,21 @@
+Package: libdlmcontrolui
+Architecture: amd64
+Version: 5.3.70
+Priority: optional
+Section: utils
+Source: downloadmanager
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 1612
+Depends: curl
+Conflicts: org.deepin.downloader (<= 5.3.15)
+Replaces: org.deepin.downloader (<= 5.3.15)
+Filename: ./l/libdlmcontrolui/libdlmcontrolui_5.3.70_amd64.deb
+Size: 465732
+MD5sum: 664346f4a8a91d152cfa7ff604e3b13b
+SHA1: 357c33311986c1e5ab1a1376eff2b3fede73c6e6
+SHA256: 5ff0b28d29eebe4d2fcaa922d513ce90520c7b2138097bd9091c5f7e30f85ea0
+SHA512: ca4b32b01c254b03c20c9495fcdcdb3a48478f4c5b61133c920e612eb2fda2ffd6c6383ce09fa95e9408ae4de9df4b3a97c72968a43f9b44cd6bf3c0a09bd710
+Homepage: https://www.deepin.org/
+Description: download manager dlmcontrolui lib.
+ downloader for deepin desktop environment.
+

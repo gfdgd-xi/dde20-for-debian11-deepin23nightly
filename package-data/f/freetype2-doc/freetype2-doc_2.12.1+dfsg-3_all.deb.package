@@ -1,0 +1,27 @@
+Package: freetype2-doc
+Architecture: all
+Version: 2.12.1+dfsg-3
+Multi-Arch: foreign
+Priority: optional
+Section: doc
+Source: freetype
+Maintainer: Hugh McMaster <hugh.mcmaster@outlook.com>
+Installed-Size: 6602
+Recommends: fonts-dejavu-core, fonts-noto-core
+Breaks: libfreetype6-dev (<< 2.9.1)
+Replaces: libfreetype6-dev (<< 2.9.1)
+Filename: ./f/freetype2-doc/freetype2-doc_2.12.1+dfsg-3_all.deb
+Size: 2485424
+MD5sum: c99ffd21cd896cd182b387776769f8cb
+SHA1: 6791f85ea9877af85dc7487286ff5dd35aec260c
+SHA256: 82136ba1de906aa18f0c6b63d3ec46093edc2247f1738a0417c9d5b21a0dc529
+SHA512: 9333cbae0572ab145d29fd032df9a6cf0d767eb526a2bd358afe3e855f74de7b9711557cb9cbc18c74822a0718268df271ce12c03cbdeaf953bd915bccba1023
+Homepage: https://www.freetype.org
+Description: FreeType 2 font engine, development documentation
+ The FreeType project is a team of volunteers who develop free,
+ portable and high-quality software solutions for digital typography.
+ They specifically target embedded systems and focus on providing small,
+ efficient and ubiquitous products.
+ .
+ This package contains the FreeType 2 development documentation.
+

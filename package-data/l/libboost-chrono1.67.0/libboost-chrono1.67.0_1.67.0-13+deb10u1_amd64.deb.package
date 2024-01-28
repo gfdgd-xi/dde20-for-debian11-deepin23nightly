@@ -1,0 +1,54 @@
+Package: libboost-chrono1.67.0
+Architecture: amd64
+Version: 1.67.0-13+deb10u1
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: boost1.67
+Maintainer: Debian Boost Team <team+boost@tracker.debian.org>
+Installed-Size: 2042
+Depends: libboost-system1.67.0, libc6 (>= 2.14), libgcc1 (>= 1:3.0), libstdc++6 (>= 5.2)
+Filename: ./l/libboost-chrono1.67.0/libboost-chrono1.67.0_1.67.0-13+deb10u1_amd64.deb
+Size: 233816
+MD5sum: 2799efc8fb463f67a1fff74935d96cce
+SHA1: e6f33f958a6e9d0c291ca9f191f59f9e2d6939a6
+SHA256: 3e4c66b508f6b4e08c5d7e8a2058cb7e140de572ff9171359d4e27ed72c143b2
+SHA512: 90702504c23c277b418c7db09abd0e97714c4dee9d800569de321f1b16c77d3d2548072264bfe611d47ca14441ca12a645db1f0c146dde4978804cf32a7d2b8d
+Homepage: http://www.boost.org/libs/chrono/
+Description: C++ representation of time duration, time point, and clocks
+ This package forms part of the Boost C++ Libraries collection.
+ .
+ The Boost.Chrono library provides:
+ .
+  * A means to represent time durations: managed by the generic duration
+    class.Examples of time durations include days, minutes, seconds and
+    nanoseconds, which can be represented with a fixed number of clock
+    ticks per unit. All of these units of time duration are united with
+    a generic interface by the duration facility.
+  * A type for representing points in time: time_point. A time_point
+    represents an epoch plus or minus a duration. The library leaves
+    epochs unspecified. A time_point is associated with a clock.
+  * Several clocks, some of which may not be available on a particular
+    platform: system_clock, steady_clock and high_resolution_clock. A
+    clock is a pairing of a time_point and duration, and a function
+    which returns a time_point representing now.
+ .
+ To make the timing facilities more generally useful, Boost.Chrono
+ provides a number of clocks that are thin wrappers around the
+ operating system's time APIs, thereby allowing the extraction of wall
+ clock time, user CPU time, system CPU time spent by the process:
+ .
+  * process_real_cpu_clock, captures wall clock CPU time spent by the
+    current process.
+  * process_user_cpu_clock, captures user-CPU time spent by the current
+    process.
+  * process_system_cpu_clock, captures system-CPU time spent by the
+    current process.
+  * a tuple-like class process_cpu_clock, that captures real, user-CPU,
+    and system-CPU process times together.
+  * a thread_clock thread steady clock giving the time spent by the
+    current thread (when supported by a platform).
+ .
+ Lastly, Boost.Chrono includes typeof registration for duration and
+ time_point to permit using emulated auto with C++03 compilers.
+

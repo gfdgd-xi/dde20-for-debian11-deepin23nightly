@@ -1,0 +1,18 @@
+Package: dde-printer
+Architecture: amd64
+Version: 0.9.18-1
+Priority: optional
+Section: misc
+Maintainer: Deepin Sysdev <sysdev@linuxdeepin.com>
+Installed-Size: 12277
+Depends: libc6 (>= 2.14), libcups2 (>= 1.7.0), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5network5 (>= 5.0.2), libqt5widgets5 (>= 5.11.0~rc1), libstdc++6 (>= 5.2), libusb-1.0-0 (>= 2:1.0.16), libnss-winbind
+Filename: ./d/dde-printer/dde-printer_0.9.18-1_amd64.deb
+Size: 3473920
+MD5sum: 98a545f1d5acba9d07d9bb54af14f8e3
+SHA1: 79d325288c5d4c8781c3ba7ca41e637693b791a6
+SHA256: 8da151ab4a96b38802abde01f9641b112c57de76e3d1f685e6b37337b64cd96a
+SHA512: 2dca946a8a47e057b88d5faccb742bb54cfedf9a952732d7baa4f9aaf32c26021d029b5836496c3caa3b4ec83627a176f3143219baf158a752889d3839a2c937
+Homepage: http://www.linuxdeepin.com/
+Description: Deepin Print Manager is a eazy tool to manage printers.
+ Deepin Print Manager is a printer management tool,which supports adding and removing printers,managing print jobs and so on.
+

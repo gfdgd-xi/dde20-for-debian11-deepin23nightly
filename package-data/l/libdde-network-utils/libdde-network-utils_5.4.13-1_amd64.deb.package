@@ -1,0 +1,19 @@
+Package: libdde-network-utils
+Architecture: amd64
+Version: 5.4.13-1
+Priority: optional
+Section: libs
+Source: dde-network-utils
+Maintainer: listenerri <listenerri@gmail.com>
+Installed-Size: 383
+Depends: libc6 (>= 2.14), libdframeworkdbus2 (>= 5.5.12), libgcc-s1 (>= 3.0), libgsettings-qt1 (>= 0.1+14.04.20140408), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5network5 (>= 5.0.2), libstdc++6 (>= 4.1.1)
+Filename: ./l/libdde-network-utils/libdde-network-utils_5.4.13-1_amd64.deb
+Size: 84436
+MD5sum: bc021db453a78bb333016e9625d29f11
+SHA1: 713bf10c7229ecf745b28a093b8398a197090fbe
+SHA256: bb5262d176577028bed8dc2ed6c863eb71016d1151fecc4156379cc9e3b7ba6a
+SHA512: 424779820dc147b36331b7d9c238f5eae008377b68901f96a4bfb96c2939adc94036410aa87e2beb59bdd80996bde8410ae279458ae598a27ac5306ec51af35e
+Homepage: https://github.com/linuxdeepin/dde-network-utils
+Description: dde network utils
+ dde network utils module.
+

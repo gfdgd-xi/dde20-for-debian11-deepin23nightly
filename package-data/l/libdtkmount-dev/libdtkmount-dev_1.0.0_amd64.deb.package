@@ -1,0 +1,20 @@
+Package: libdtkmount-dev
+Architecture: amd64
+Version: 1.0.0
+Priority: optional
+Section: libdevel
+Source: dtkio
+Maintainer: Packages Builder <packages@deepin.com>
+Installed-Size: 61
+Depends: libdtkmount (= 1.0.0)
+Filename: ./l/libdtkmount-dev/libdtkmount-dev_1.0.0_amd64.deb
+Size: 9468
+MD5sum: 8c07287e461c59f2cb034b8670babf28
+SHA1: 1be83ef68e2bc51d8d03cc52435885faf0e142d1
+SHA256: 7a5be58d8953894b28a46bbfe2e4fb076ac4e51837ae18232cc11f35b48de858
+SHA512: 732d15ea1c35dcbc730e2d74821861b4030a3143c7212e14b3942adcc47c16806723e978bbb39d920eef2207f0c5a425baabc1e58a9de3891344f53e817cd01d
+Description: Deepin Tool Kit template devel library
+ libdtkmount-dev is base devel library of Deepin Qt/C++ applications.
+ .
+ This package contains the header files and static libraries.
+

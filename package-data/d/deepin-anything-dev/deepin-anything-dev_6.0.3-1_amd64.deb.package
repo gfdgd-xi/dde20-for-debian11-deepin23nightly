@@ -1,0 +1,19 @@
+Package: deepin-anything-dev
+Architecture: amd64
+Version: 6.0.3-1
+Priority: optional
+Section: admin
+Source: deepin-anything
+Maintainer: Deepin Package Builder <packages@deepin.com>
+Installed-Size: 209
+Depends: libc6 (>= 2.14), libglib2.0-0 (>= 2.35.8), libpcre3, deepin-anything-libs (= 6.0.3-1)
+Filename: ./d/deepin-anything-dev/deepin-anything-dev_6.0.3-1_amd64.deb
+Size: 57204
+MD5sum: 4386b51308eb25b6a42d5e370c54151d
+SHA1: 02f1e8272a2be48a13fbbe14d32949c633d99afc
+SHA256: 2ced4643b2b6178464989dc42bdd29fd0816cb660e27ce6f37d50580d961cfed
+SHA512: 2b86a39861499728c3e4f5d54fd083b9c89f273bc4b59689ff088fbd979797751730fe9b6545d72d18e6e1cc6e0aff1f088b3119a62c6176f970db257785fb83
+Homepage: http://github.com/linuxdeepin/deepin-anything
+Description: anything user interface library
+ anything library developer package.
+

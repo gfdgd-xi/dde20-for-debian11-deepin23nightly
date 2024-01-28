@@ -1,0 +1,18 @@
+Package: deepin-security-verify
+Architecture: amd64
+Version: 1.3.1.4-1
+Priority: optional
+Section: devel
+Maintainer: Packages <packags@deepin.com>
+Installed-Size: 28
+Depends: libc6 (>= 2.2.5)
+Filename: ./d/deepin-security-verify/deepin-security-verify_1.3.1.4-1_amd64.deb
+Size: 4556
+MD5sum: c1da449840b7e64de1fba38888960589
+SHA1: 031a319d4b4e5731a271e1453b7a74624eccf602
+SHA256: 2866f7ed88febdbb42f29bef3e07c24b3126891c30912e9e021ad1511f7c1550
+SHA512: 9eadc8174679f45bd4c62b931c25607d6f51ffd7093b00446aadf629563a8a1697ff3d3783d1defe036d104a2c8d073bce140f76e3a885a9f6646c88dc2ea786
+Homepage: <insert the upstream URL, if relevant>
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
+

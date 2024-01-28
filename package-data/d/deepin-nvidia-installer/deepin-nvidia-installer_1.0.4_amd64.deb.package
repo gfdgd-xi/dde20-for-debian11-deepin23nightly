@@ -1,0 +1,19 @@
+Package: deepin-nvidia-installer
+Architecture: amd64
+Version: 1.0.4
+Priority: optional
+Section: misc
+Maintainer: huxiaodong <huxiaodong@uniontech.com.com>
+Installed-Size: 44
+Depends: jq, python3-click, python3, libpython3.7-stdlib
+Filename: ./d/deepin-nvidia-installer/deepin-nvidia-installer_1.0.4_amd64.deb
+Size: 20016
+MD5sum: 83ac6f9f734694daf0e071ae0539db9c
+SHA1: 8a287426156178712534b5bc1b3ef15cfd889a6e
+SHA256: 0fcd2c37c10e6143579c7bd2315716cefa3f215b99f6f0f25b0c1e8404f47b68
+SHA512: 4221f89f409cafad48f1e166d0c2b8054e9cddb1a4d3b9e71cd58fd101da8c804d07cfd16765e75a0279eece1f99a37e1d70c36a2ac37dfd849d6d788afeb9ee
+Homepage: https://www.deepin.org
+Description: Use it in the deepin-installer
+ to find a driver version that supports the current system
+ graphics card through the matching algorithm for pre installation.
+

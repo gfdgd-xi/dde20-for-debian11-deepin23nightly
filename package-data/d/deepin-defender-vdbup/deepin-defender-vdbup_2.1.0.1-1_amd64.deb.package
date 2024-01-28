@@ -1,0 +1,18 @@
+Package: deepin-defender-vdbup
+Architecture: amd64
+Version: 2.1.0.1-1
+Priority: optional
+Section: devel
+Maintainer: Uniontechos THIRD Maintainers<uniontechos-third@uniontech.com>
+Installed-Size: 16911
+Depends: libc6 (>= 2.28), libgcc-s1 (>= 3.0), libstdc++6 (>= 5.2)
+Filename: ./d/deepin-defender-vdbup/deepin-defender-vdbup_2.1.0.1-1_amd64.deb
+Size: 10099616
+MD5sum: 9e30a9e77816fb0c4e87854522202241
+SHA1: 864142d03fd26cfaeafda4b708d51b2be8d0f9f3
+SHA256: c5a44e799c4ef2de253cfa40ca985df0499921ff64376b35112fbcb2b56b342a
+SHA512: 340313a0de4d663c814fa412e7ca4837bcbbd9853bbcab0b960bdbfdb418e9a39e850c5e0c10c23c67372c63c5e2d7935717d36bcf2392af1a2ebd347a5cac35
+Homepage: http://www.deepin.com
+Description: AnHeng virus engine
+ Solved the problem that the deepin-defender uses the Anheng virus engine interface.
+

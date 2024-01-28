@@ -1,0 +1,24 @@
+Package: libboost-iostreams1.67.0
+Architecture: amd64
+Version: 1.67.0-13+deb10u1
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: boost1.67
+Maintainer: Debian Boost Team <team+boost@tracker.debian.org>
+Installed-Size: 2118
+Depends: libbz2-1.0, libc6 (>= 2.14), libgcc1 (>= 1:3.0), libstdc++6 (>= 5.2), zlib1g (>= 1:1.1.4)
+Filename: ./l/libboost-iostreams1.67.0/libboost-iostreams1.67.0_1.67.0-13+deb10u1_amd64.deb
+Size: 249152
+MD5sum: d90021867f922cc4b5dc3053316e6937
+SHA1: 131bfdae468f58cc96699d5a2d93914a3ed12a6a
+SHA256: ba123f41ed6865c6fcbbd7cb086e8a24bac9d04a367d0915053865696a40978c
+SHA512: 484ef44d7964c4869db5c6a45a7bff1bc33b3b9a211dee96df9e52451d686270d1f95361195e6e66c7a3ed43d5f8af0b1db0efd8a1cbda1fd4d2ef6aa60fdafe
+Homepage: http://www.boost.org/libs/iostreams/
+Description: Boost.Iostreams Library
+ This package forms part of the Boost C++ Libraries collection.
+ .
+ Boost.Iostreams are a collection of concepts and a set of templates
+ which turn models of these concepts into C++ standard library streams
+ and stream buffers.
+

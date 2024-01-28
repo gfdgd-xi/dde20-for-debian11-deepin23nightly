@@ -1,0 +1,32 @@
+Package: libboost-regex1.67.0
+Architecture: amd64
+Version: 1.67.0-13+deb10u1
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: boost1.67
+Maintainer: Debian Boost Team <team+boost@tracker.debian.org>
+Installed-Size: 3107
+Depends: libc6 (>= 2.14), libgcc1 (>= 1:3.0), libicu63 (>= 63.1-1~), libstdc++6 (>= 5.2)
+Breaks: ceph-common (= 12.2.8+dfsg1-1), ceph-common (= 12.2.8+dfsg1-2), nheko (= 0.6.1-1)
+Filename: ./l/libboost-regex1.67.0/libboost-regex1.67.0_1.67.0-13+deb10u1_amd64.deb
+Size: 484968
+MD5sum: 1f71c98e59bf9e8639a6f3b623d2582a
+SHA1: b481855774dec1c20ffc2fc3c38957e947183aa3
+SHA256: b9f0e84f1649057e1abade1faa590ca4ef79b4159db7172e459b3d323de18f96
+SHA512: 374cd9a21ef454d0d484357aa08766d353a933e727ce537f0282ade6a66f074f9ce7f24b05971373644d8ec3af4e60a06c6f076ebaaea47423632b57f359f3e1
+Homepage: http://www.boost.org/libs/regex/
+Description: regular expression library for C++
+ This package forms part of the Boost C++ Libraries collection.
+ .
+ Regular expressions are a form of pattern-matching that are often
+ used in text processing; many users will be familiar with the Unix
+ utilities grep, sed and awk, and the programming language perl, each
+ of which make extensive use of regular expressions. Traditionally C++
+ users have been limited to the POSIX C APIs for manipulating regular
+ expressions, and while regex does provide these APIs, they do not
+ represent the best way to use the library. For example regex can cope
+ with wide character strings, or search and replace operations (in a
+ manner analogous to either sed or perl), something that traditional C
+ libraries can not do.
+

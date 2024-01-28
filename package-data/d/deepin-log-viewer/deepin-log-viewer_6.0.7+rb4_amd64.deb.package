@@ -1,0 +1,21 @@
+Package: deepin-log-viewer
+Architecture: amd64
+Version: 6.0.7+rb4
+Priority: optional
+Section: utils
+Maintainer: Deepin Packages Builder <packages@deepin.org>
+Installed-Size: 13634
+Depends: dconf-gsettings-backend | gsettings-backend
+Recommends: uos-reporter, deepin-event-log
+Filename: ./d/deepin-log-viewer/deepin-log-viewer_6.0.7+rb4_amd64.deb
+Size: 10375564
+MD5sum: 3c85f1ec22f0a12ff048601301c40a8e
+SHA1: cabeb5518cc83321d800964f6ad38ebc86f1a6fd
+SHA256: cebbcb8d928ebf0767da056e18753368c800508dbf4a80d0431ee3606eb9b150
+SHA512: 087a5d6b321c53083e7b257ea70e4184da52c14141a7811484a359cf265f3893da2e38c82ee1021a312477cf94dbb4b62bd328747d6daf7597b626d2af3cddd0
+Description: Log Viewer is a useful tool for viewing system logs.
+ Log viewer is a tool that collects logs generated when an application
+ is running, for example, logs generated when operating system and
+ applications start up and run. You can do trouble-shooting and solve
+ problems quickly by analyzing logs.
+

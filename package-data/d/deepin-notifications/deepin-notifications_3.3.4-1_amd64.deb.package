@@ -1,0 +1,20 @@
+Package: deepin-notifications
+Architecture: amd64
+Version: 3.3.4-1
+Priority: optional
+Section: x11
+Maintainer: Debian Deepin Packaging Team <pkg-deepin-devel@lists.alioth.debian.org>
+Installed-Size: 273
+Depends: libqt5sql5-sqlite, libc6 (>= 2.14), libdframeworkdbus2 (>= 5.5.12), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libgsettings-qt1 (>= 0.1+14.04.20140408), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5sql5 (>= 5.0.2), libqt5widgets5 (>= 5.15.1), libstdc++6 (>= 4.1.1)
+Filename: ./d/deepin-notifications/deepin-notifications_3.3.4-1_amd64.deb
+Size: 88612
+MD5sum: 5b1dcae357e1340fd49e8573c07c8918
+SHA1: c09f78fff13f53c2c60e46967e5bbd2d6197b20d
+SHA256: 147f93cc4c69c4eadcd50d0b7c516cf7ae9fd27213fba50b8690af34b737dc83
+SHA512: 3740c7480ca35f04d485c9ddcbc096456cadb92094ef6a072fc4ea8cab002b7e6729ab4d9987e764d9109ba708c4c8903ac28c95e36a8041983f1e774d2aa729
+Homepage: https://github.com/linuxdeepin/deepin-notifications
+Description: System notifications for Deepin Desktop Environment
+ Deepin notification is a notfiy app for Deepin Desktop Environment.
+ .
+ This package is part of DDE (Deepin Desktop Environment).
+

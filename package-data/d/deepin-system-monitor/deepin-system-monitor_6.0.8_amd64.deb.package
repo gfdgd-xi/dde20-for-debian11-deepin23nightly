@@ -1,0 +1,20 @@
+Package: deepin-system-monitor
+Architecture: amd64
+Version: 6.0.8
+Priority: optional
+Section: utils
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 26119
+Depends: dconf-gsettings-backend | gsettings-backend, libcap2-bin, libdwaylandclient5 | libkf5waylandclient5, libdwaylandserver5 | libkf5waylandserver5, deepin-service-manager
+Recommends: uos-reporter, deepin-event-log
+Replaces: deepin-system-monitor-plugin
+Filename: ./d/deepin-system-monitor/deepin-system-monitor_6.0.8_amd64.deb
+Size: 10944412
+MD5sum: 6abbe3247b5930315872a8c09c0b041a
+SHA1: 8982e214bb3d6451e7923770264e8ff6572369af
+SHA256: fc1becbb0b3a563d44dad494a07b21271b6049c04a5b5312395292b749d52496
+SHA512: 8aacc6ff293b6f2b91b17b2771ee7c8c8d36effc922565d564405a4eadf468444c695961b9ef3436b8d47f17e54b589216a0653d50dfa0ec736c5fa1cfc37d4a
+Homepage: https://github.com/linuxdeepin/deepin-system-monitor
+Description: A system monitor tool.
+ System Monitor is a system tool monitoring and managing hardware load, program running and system services. It's capable to real-time monitor CPU status, memory footprint, and upload/download speed, manage system and application processes, search and force end processes as well.
+

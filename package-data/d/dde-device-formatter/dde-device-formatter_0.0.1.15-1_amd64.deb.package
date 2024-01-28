@@ -1,0 +1,18 @@
+Package: dde-device-formatter
+Architecture: amd64
+Version: 0.0.1.15-1
+Priority: optional
+Section: utils
+Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
+Installed-Size: 234
+Depends: libc6 (>= 2.24), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5network5 (>= 5.0.2), libqt5widgets5 (>= 5.0.2), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 4.1.1), libudisks2-qt5, libx11-6
+Filename: ./d/dde-device-formatter/dde-device-formatter_0.0.1.15-1_amd64.deb
+Size: 53692
+MD5sum: df5fc05eff62e1cbc1f09745caa64eb7
+SHA1: f99fa0ffe1acf4bcb9893d51ee11a52be05118e1
+SHA256: 71a0050d5875b5b99bae587611d172c44c9c1a59317912a6c8bcddfa70e50143
+SHA512: 13628d24ed8ae4320fc2b43c387354d4c7fce8244c02439cccb2252d34d36cd29c461bb1190dd454e1f2e3257c1b1520d42f4d5160b96f0af9c26ee3ba7b896c
+Homepage: http://www.deepin.org
+Description: Device formatter
+ A simple graphical interface for creating file system in a block device.
+

@@ -1,0 +1,19 @@
+Package: deepin-anything-libs
+Architecture: amd64
+Version: 6.0.3-1
+Priority: optional
+Section: admin
+Source: deepin-anything
+Maintainer: Deepin Package Builder <packages@deepin.com>
+Installed-Size: 532
+Depends: libc6 (>= 2.14), libglib2.0-0 (>= 2.35.8), libpcre3
+Filename: ./d/deepin-anything-libs/deepin-anything-libs_6.0.3-1_amd64.deb
+Size: 54148
+MD5sum: 49e048507185700129f5e984c1af1694
+SHA1: 67f59764b3c598c9af5618a5925c1ee6ffc09ddf
+SHA256: e7ee3c7a62caaee9c8d80dc45b033c92fba03435adada194e679ff7b7b5e77b7
+SHA512: 24ace59f9f7435bcd4c2ef15caf9296ed808953b8b4d46a8968bd954386f8dfedaece059e77a44f8b667575f4ef943fa19dde74dab12e1ee40175250a74c58f5
+Homepage: http://github.com/linuxdeepin/deepin-anything
+Description: anything library
+ anything library package
+

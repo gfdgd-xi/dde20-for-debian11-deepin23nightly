@@ -1,0 +1,19 @@
+Package: libdtknetworkmanager
+Architecture: amd64
+Version: 1.0.3-1
+Priority: optional
+Section: libdevel
+Source: dtknetworkmanager
+Maintainer: Packages Builder <packages@deepin.com>
+Installed-Size: 937
+Filename: ./l/libdtknetworkmanager/libdtknetworkmanager_1.0.3-1_amd64.deb
+Size: 202012
+MD5sum: 4b3acf782c7fa8f21448b117bc760d95
+SHA1: 6d35c2caaef02dc728bcd1abe12fe60cac037cb1
+SHA256: f13ec22ead3d31bbedeb09d226674ec84f658d75a4cd7f3b1c39a443c63451f6
+SHA512: 0e74911be1f74c2091350d9601666816d81e40010d682c88e158cf83395e0cdd217ee41a117cb08499f27f4d434f59929b3259b3b4f7122c1eee1c6e6ed4477b
+Description: Deepin Tool Kit template library
+ libdtknetworkmanager is base library of Deepin Qt/C++ applications.
+ .
+ This package contains the shared libraries.
+

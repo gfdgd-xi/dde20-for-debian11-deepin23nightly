@@ -1,0 +1,28 @@
+Package: libfreetype6-dev
+Architecture: amd64
+Version: 2.12.1+dfsg-3
+Multi-Arch: same
+Priority: optional
+Section: oldlibs
+Source: freetype
+Maintainer: Hugh McMaster <hugh.mcmaster@outlook.com>
+Installed-Size: 92
+Depends: libfreetype-dev (= 2.12.1+dfsg-3)
+Filename: ./l/libfreetype6-dev/libfreetype6-dev_2.12.1+dfsg-3_amd64.deb
+Size: 70768
+MD5sum: f010ae3d76afcff42668a34b30f78b2d
+SHA1: bbb79093c23ad582736824bcc5b0cb2e6cd33e9a
+SHA256: 66b2f8c8b0e59efb65a63d2df0ebff59e5bb50874722efcba182de416e1550f4
+SHA512: 125be96060b7fbbe6e1328970fc3f8741a6be110144efbcf8b7b5eb39546c1679e074d8bd4ae2695cdd8fcbf740500b28341656562afa3c8667f76319b18e0dd
+Homepage: https://www.freetype.org
+Description: FreeType 2 font engine, development files (transitional package)
+ The FreeType project is a team of volunteers who develop free,
+ portable and high-quality software solutions for digital typography.
+ They specifically target embedded systems and focus on providing small,
+ efficient and ubiquitous products.
+ .
+ This package contains all of the supplementary files you need to develop your
+ own programs using the FreeType 2 library.
+ .
+ This is a transitional package. It can safely be removed.
+

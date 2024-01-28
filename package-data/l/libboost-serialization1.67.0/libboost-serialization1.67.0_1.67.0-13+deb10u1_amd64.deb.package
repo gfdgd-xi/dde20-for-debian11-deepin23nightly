@@ -1,0 +1,32 @@
+Package: libboost-serialization1.67.0
+Architecture: amd64
+Version: 1.67.0-13+deb10u1
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: boost1.67
+Maintainer: Debian Boost Team <team+boost@tracker.debian.org>
+Installed-Size: 2437
+Depends: libc6 (>= 2.14), libgcc1 (>= 1:3.0), libstdc++6 (>= 5.2)
+Filename: ./l/libboost-serialization1.67.0/libboost-serialization1.67.0_1.67.0-13+deb10u1_amd64.deb
+Size: 318956
+MD5sum: f33c8832ff954c2ea8da0a74adeb4b45
+SHA1: f5cbe70f7f610e7eade497c6700c80ffc3254ddd
+SHA256: db01e855574444ddad3a2993889349d5556c49a032c2c18d6716f87aa7df7281
+SHA512: c9833e867b24417d7ad278bf8ddd49491ac9d7b0da707603a94bd180689129abf7231d8ae945d61b0ec1701f4ebdda33cf31a92bf240e5c60d92bc62028bae12
+Homepage: http://www.boost.org/libs/serialization/
+Description: serialization library for C++
+ This package forms part of the Boost C++ Libraries collection,
+ containing the following functionalities:
+ .
+  * proper restoration of pointers to shared data
+  * serialization of STL containers and other commonly used templates
+  * data portability - streams of bytes created on one platform should
+    be readable on any other
+  * archive interface must be rich enough to permit the creation of an
+    archive that presents serialized data as XML in a useful manner
+ .
+ Here, "serialization" means the reversible deconstruction of an
+ arbitrary set of C++ data structures to a sequence of bytes.
+ archive: to refer to a specific rendering of this stream of bytes.
+

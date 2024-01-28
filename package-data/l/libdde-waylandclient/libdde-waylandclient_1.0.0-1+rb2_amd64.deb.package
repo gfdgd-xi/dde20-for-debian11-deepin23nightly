@@ -1,0 +1,19 @@
+Package: libdde-waylandclient
+Architecture: amd64
+Version: 1.0.0-1+rb2
+Multi-Arch: same
+Priority: optional
+Section: devel
+Source: dde-wayland
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 74
+Depends: libc6 (>= 2.4), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.2.0) | libqt5gui5-gles (>= 5.2.0), libqt5waylandclient5 (>= 5.14.1), libstdc++6 (>= 4.1.1)
+Filename: ./l/libdde-waylandclient/libdde-waylandclient_1.0.0-1+rb2_amd64.deb
+Size: 18072
+MD5sum: 1892bb1d0bf8218b5ac5185270cdfa71
+SHA1: 62a0c1687cedc19b27ee05f10274f2ffffd5b1e4
+SHA256: 0a39c39c7c1b214ccafd8a58e96bf34eb6d01231c8f209a9a3b3018c1140572d
+SHA512: c278f8fee41625c2173f9d9621ced05835a45566055300cb9a5282e16652fce49eb85df10aba4f65f66f9e2e2a52337a0ee45491e5de13314cf23ab128bce287
+Description: DDE wayland client library
+ with DDE custom protocol.
+

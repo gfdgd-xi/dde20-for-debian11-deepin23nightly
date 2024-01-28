@@ -1,0 +1,19 @@
+Package: deepin-devicemanager
+Architecture: amd64
+Version: 6.0.12
+Priority: optional
+Section: devel
+Maintainer: Packages <packages@deepin.com>
+Installed-Size: 8330
+Depends: dmidecode, x11-xserver-utils, hwinfo, cups, upower, deepin-shortcut-viewer, lshw, libdtkcore5 (>= 5.2.2.2), libkmod2, libdeepin-service-framework, deepin-service-manager
+Recommends: uos-reporter, deepin-event-log, deepin-elf-sign-tool
+Filename: ./d/deepin-devicemanager/deepin-devicemanager_6.0.12_amd64.deb
+Size: 3844744
+MD5sum: d727adcaba73f9e0c96dca1c126ae8b9
+SHA1: 764f514bdcac3d2c78b5a99d0aa59b1122ac2f27
+SHA256: 1317ffbdc38ab7239b81ebb1c1ced18c4dcb54d5eeb403722a929921a809548a
+SHA512: 62b1bc6e845776d048b362a10e496ddd8ccfcba100944583a6b2726e82e435882f8da4ea524fcfb034e6f2272f2628cd92c673f5cf0dd60dd52682a81f32d6c1
+Description: Device Manager is a handy tool for viewing hardware information and managing the devices.
+ Device Manager helps users manage hardware devices installed on computers,
+ through which users can view parameters and export data of all hardware devices running in the system.
+

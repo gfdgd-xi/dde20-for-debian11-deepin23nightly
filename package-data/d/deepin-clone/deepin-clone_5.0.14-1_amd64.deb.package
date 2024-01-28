@@ -1,0 +1,18 @@
+Package: deepin-clone
+Architecture: amd64
+Version: 5.0.14-1
+Priority: optional
+Section: devel
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 5045
+Depends: partclone, jfsutils, ntfs-3g, xfsprogs
+Filename: ./d/deepin-clone/deepin-clone_5.0.14-1_amd64.deb
+Size: 3943304
+MD5sum: ecc421b2279768dc2e565d578332f870
+SHA1: dcc09ec7ba827220a9ba03eb095d15adf2e13697
+SHA256: 4d6f4f3ff47c1058514b3e3ac1fc669391ed52174c1f169813d2ff9c611378c4
+SHA512: 275107935424c3a5970aec3e69f9e5c042f89cb4626b7791287ff29332e2921aefc318f4a69b0eee6e7d7e716c3166d202bb1ba14b871e35b5e80b8632a7ee93
+Description: Backup Restore Tool
+  It is a tool for disk or partition clone, backup and restore, and other functions.
+  It supports clone disk to disk, disk to file, partition to partition, partition to file; and restore from file to disk, file to partition.
+

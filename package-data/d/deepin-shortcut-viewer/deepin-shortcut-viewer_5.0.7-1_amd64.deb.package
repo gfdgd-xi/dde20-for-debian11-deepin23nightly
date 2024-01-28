@@ -1,0 +1,18 @@
+Package: deepin-shortcut-viewer
+Architecture: amd64
+Version: 5.0.7-1
+Priority: optional
+Section: devel
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 90
+Depends: libc6 (>= 2.4), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.2.0) | libqt5gui5-gles (>= 5.2.0), libqt5network5 (>= 5.0.2), libqt5widgets5 (>= 5.9.0~beta), libstdc++6 (>= 4.1.1)
+Filename: ./d/deepin-shortcut-viewer/deepin-shortcut-viewer_5.0.7-1_amd64.deb
+Size: 24040
+MD5sum: 627efcba1c23a158dcebdba2b4c5d319
+SHA1: 10d0f90169efe2f7a00947c648e2121593720cd5
+SHA256: 9c6b98725d95bdc43e2aad8105ec43953893f45dd116252a594460dc4af540f8
+SHA512: 9793673f27e6e5f2b6f58c5e35ffc7f2f414e9e226e76851253b0fd74ce81cade8a94fe906b7e74ab674169f4f5a6ada9e635623799e342e687e851f2bd89227
+Homepage: http://www.deepin.org
+Description: shortcut viewer tools
+ A shortcut viewer tool for deepin.
+

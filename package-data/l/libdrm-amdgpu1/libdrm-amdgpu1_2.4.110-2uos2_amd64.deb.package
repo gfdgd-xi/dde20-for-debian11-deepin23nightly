@@ -1,0 +1,24 @@
+Package: libdrm-amdgpu1
+Architecture: amd64
+Version: 2.4.110-2uos2
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: libdrm
+Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
+Installed-Size: 84
+Depends: libc6 (>= 2.28), libdrm2 (>= 2.4.108)
+Filename: ./l/libdrm-amdgpu1/libdrm-amdgpu1_2.4.110-2uos2_amd64.deb
+Size: 29404
+MD5sum: 40e0d4dcd2041b45df9bdacb60745d8e
+SHA1: ff9936eac109d77eaf197c3cc92be9968457b43f
+SHA256: 880398be0cf721d7dcc38dba8461d6da50008abb151974d68492d60e9671ceee
+SHA512: 7054098268b8dbf482fd7758c0503b6af51609bcb5be9bcc05295f91011f44e9fcfa7e790f1ffd5900849ea1b9404dfac7cf973ce3ba58a937c5b7bc8506410f
+Homepage: https://cgit.freedesktop.org/mesa/drm/
+Description: Userspace interface to amdgpu-specific kernel DRM services -- runtime
+ This library implements the userspace interface to the kernel DRM
+ services.  DRM stands for "Direct Rendering Manager", which is the
+ kernelspace portion of the "Direct Rendering Infrastructure" (DRI).
+ The DRI is currently used on Linux to provide hardware-accelerated
+ OpenGL drivers.
+

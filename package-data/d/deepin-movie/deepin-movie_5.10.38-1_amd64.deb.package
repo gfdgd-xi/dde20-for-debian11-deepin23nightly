@@ -1,0 +1,20 @@
+Package: deepin-movie
+Architecture: amd64
+Version: 5.10.38-1
+Priority: extra
+Section: libdevel
+Source: deepin-movie-reborn
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 21603
+Depends: libc6 (>= 2.14), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libglib2.0-0 (>= 2.12.0), libgsettings-qt1 (>= 0.1+14.04.20140408), libmpris-qt5-1 (>= 1.0.3), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5multimedia5 (>= 5.6.0~beta), libqt5network5 (>= 5.14.1), libqt5sql5 (>= 5.0.2), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.9.0~beta), libqt5x11extras5 (>= 5.6.0), libqt5xml5 (>= 5.0.2), libstdc++6 (>= 5.2), libva-x11-2 (>= 1.0.3), libva2 (>= 1.0.3), libx11-6, libxcb-shape0, libxcb1, libxtst6, dconf-gsettings-backend | gsettings-backend, va-driver-all, libavcodec58 (>= 7:4.0), libavformat58 (>= 7:4.1), libavutil56 (>= 7:4.0), libffmpegthumbnailer4v5, libmpv1 (>= 0.29), libpulse0 (>= 0.99.1), libqt5concurrent5, libgstreamer-plugins-base1.0-0 (>= 1.0.0), libgstreamer1.0-0 (>= 1.4.0)
+Recommends: libgpuinfo, uos-reporter, deepin-event-log
+Filename: ./d/deepin-movie/deepin-movie_5.10.38-1_amd64.deb
+Size: 9575500
+MD5sum: a3e64839727993c3b612b84196060f27
+SHA1: b56aa4bd948c366c86be2f8c842c542ab4af6857
+SHA256: ef6705d5d12089de77924814783f93274a5990e43e7d48a4a9bc9d31ff2bfac0
+SHA512: 4085217ff5b20a7a87b7eef34dcd48ce1b3d28449cf9136735cd1300d4c8ded768ce22bab1f67127ec816373972127c5c41b3f685edc84066ae93c6cb412b9f0
+Homepage: https://www.deepin.org/
+Description: movie player
+ Movie is a full-featured video player, supporting playing local and streaming media in multiple video formats.
+

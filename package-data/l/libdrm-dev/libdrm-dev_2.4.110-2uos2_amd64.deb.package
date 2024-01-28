@@ -1,0 +1,26 @@
+Package: libdrm-dev
+Architecture: amd64
+Version: 2.4.110-2uos2
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: libdrm
+Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
+Installed-Size: 677
+Depends: libdrm2 (= 2.4.110-2uos2), libdrm-intel1 (= 2.4.110-2uos2), libdrm-radeon1 (= 2.4.110-2uos2), libdrm-nouveau2 (= 2.4.110-2uos2), libdrm-amdgpu1 (= 2.4.110-2uos2), libpciaccess-dev
+Filename: ./l/libdrm-dev/libdrm-dev_2.4.110-2uos2_amd64.deb
+Size: 145152
+MD5sum: 87877a96b8f3f6a57037adfbbdf6abb0
+SHA1: 375d071b0cde7c35b5251c56518f3f99b021645c
+SHA256: 67f04db44763ef8468e3ccccea1d6ae6ee1bf66483249d736140ec4312c85be3
+SHA512: e200802ceb520dedf16b03f4629d98120e0f9cccc64ab31ba0496ca25949c376c8c60dc57d9fb612aadf97e5bce7ca91d8a413acf6631dea7f67df14127ae290
+Homepage: https://cgit.freedesktop.org/mesa/drm/
+Description: Userspace interface to kernel DRM services -- development files
+ This library implements the userspace interface to the kernel DRM
+ services.  DRM stands for "Direct Rendering Manager", which is the
+ kernelspace portion of the "Direct Rendering Infrastructure" (DRI).
+ The DRI is currently used on Linux to provide hardware-accelerated
+ OpenGL drivers.
+ .
+ This package provides the development environment for libdrm.
+

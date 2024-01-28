@@ -1,0 +1,22 @@
+Package: deepin-image-viewer
+Architecture: amd64
+Version: 5.9.16-1
+Priority: extra
+Section: utils
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 7215
+Provides: libxraw (= 5.9.13)
+Depends: libc6 (>= 2.14), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libimageeditor (>= 1.0.22), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5widgets5 (>= 5.0.2), libraw20 (>= 0.16.0), libstdc++6 (>= 5.2), libqt5sql5-sqlite, qt5-image-formats-plugins
+Recommends: libqt5libqgtk2, kimageformat-plugins, deepin-ocr, uos-reporter, deepin-event-log
+Conflicts: libxraw (<< 5.9.14)
+Replaces: libxraw (<< 5.9.14)
+Filename: ./d/deepin-image-viewer/deepin-image-viewer_5.9.16-1_amd64.deb
+Size: 5023084
+MD5sum: 19f86567ff3d9ad129509d9b1ba20f80
+SHA1: 79e87da199924b978ba119b197c0eb64de0c1ba6
+SHA256: 1441402620f3ec15df82929b60b20f7f7f095325c0d9428f00c6c3c8e6cf55b0
+SHA512: e1181efe4071b43a8a043f75ee665e620414fc5feef42852524bb90f7b6547fb4f11e2804974cb24076f29c3e86d4e1957af270667fafb38b3ff386ee26667b8
+Homepage: http://www.deepin.org
+Description: Image Viewer is an image viewing tool with fashion interface and smooth performance.
+ Deepin Image Viewer is an image viewing tool with fashion interface and smooth performance.
+

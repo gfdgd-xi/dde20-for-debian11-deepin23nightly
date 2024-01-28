@@ -1,0 +1,17 @@
+Package: deepin-show-userlogin
+Architecture: all
+Version: 0.0.2.3-1+back
+Priority: optional
+Section: x11
+Maintainer: deepin <deepin@deepin.org>
+Installed-Size: 12
+Depends: zenity
+Filename: ./d/deepin-show-userlogin/deepin-show-userlogin_0.0.2.3-1+back_all.deb
+Size: 1892
+MD5sum: c7078e8ed7e815cf9690dde0598231c9
+SHA1: baa36e169d3dcca0bd27b254b648aacc226c33ad
+SHA256: af415a5e03dffdb4cec0072e6abdf64c2c88330155a6208be13810a7909b1eb8
+SHA512: 110f6d4499b488687526eaa4f8b20f5d26dd3c3e6b0ccee66f1511637b8d6807551da12732c76dfde245cf11518cdaddc9c8f6a6786178af2235e9234591a781
+Description: Set system resolution on arm
+ Set for arm64 on deepin
+

@@ -1,0 +1,21 @@
+Package: liblogviewerplugin
+Architecture: amd64
+Version: 6.0.7-1
+Priority: optional
+Section: utils
+Source: deepin-log-viewer
+Maintainer: Deepin Packages Builder <packages@deepin.org>
+Installed-Size: 954
+Depends: libc6 (>= 2.14), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libpolkit-qt5-1-1 (>= 0.112.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 5.2), libsystemd0
+Recommends: libqt5libqgtk2
+Conflicts: liblog-viewer-plugin
+Replaces: liblog-viewer-plugin
+Filename: ./l/liblogviewerplugin/liblogviewerplugin_6.0.7-1_amd64.deb
+Size: 268164
+MD5sum: cd41f181d33e575076383f38785dbf64
+SHA1: 218e7c7347a30acd593166018503963cd2e1c20c
+SHA256: 0b6cd52bdc76906f6e168cea2cb527c684e8fc3b879abf1ac6690c6f610f20e4
+SHA512: 793ed05d97a58505d98f8489e6836d518021134260c9da59ef5cbd58b161b0ba9648d2d227983cabf1bf2deb446a93869dfdb5b18320a615da3f7318a582a8fe
+Description: Log Viewer Plugin library.
+ Deepin Log Viewer Plugin library.
+

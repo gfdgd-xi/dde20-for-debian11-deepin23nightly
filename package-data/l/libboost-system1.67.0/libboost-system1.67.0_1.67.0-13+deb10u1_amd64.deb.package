@@ -1,0 +1,28 @@
+Package: libboost-system1.67.0
+Architecture: amd64
+Version: 1.67.0-13+deb10u1
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: boost1.67
+Maintainer: Debian Boost Team <team+boost@tracker.debian.org>
+Installed-Size: 2025
+Depends: libc6 (>= 2.14), libgcc1 (>= 1:3.0), libstdc++6 (>= 5.2)
+Filename: ./l/libboost-system1.67.0/libboost-system1.67.0_1.67.0-13+deb10u1_amd64.deb
+Size: 229068
+MD5sum: 3fc1c29f48945a2cbfb48cead91d035e
+SHA1: 1cc80d6d18d9abe4dda580b80faf7b512deb6b42
+SHA256: ca6785594503d0fbf66f02300beab24e6f3c028759cfb21cef35b8cfa15ba0dd
+SHA512: d4e5f634e38978f133a048a5faf56fd1f83bc6d9795143156c01c6c03536eb45a23bf156b7d50982e079ff66ecd99154389b681a6e4d7e4ed61ff1df98f05360
+Homepage: http://www.boost.org/libs/system/
+Description: Operating system (e.g. diagnostics support) library
+ This package forms part of the Boost C++ Libraries collection.
+ .
+ The Boost System library provides simple, light-weight error_code
+ objects that encapsulate system-specific error code values, yet also
+ provide access to more abstract and portable error conditions via
+ error_condition objects. Because error_code objects can represent
+ errors from sources other than the operating system, including
+ user-defined sources, each error_code and error_condition has an
+ associated error_category.
+

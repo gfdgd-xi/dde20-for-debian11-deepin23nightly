@@ -1,0 +1,25 @@
+Package: libdrm-common
+Architecture: all
+Version: 2.4.110-2uos2
+Multi-Arch: foreign
+Priority: optional
+Section: libs
+Source: libdrm
+Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
+Installed-Size: 45
+Filename: ./l/libdrm-common/libdrm-common_2.4.110-2uos2_all.deb
+Size: 15512
+MD5sum: 871612734f8303d1d5d5b9168c4009bd
+SHA1: 148938613d44a0617457ff34241421e45361487b
+SHA256: 43af9bda2006c0e620d8cb39cd02b08874a64ab0a5fef4cf04a236aed96a4f37
+SHA512: ca931f2c588eeccf38dc5c7f72891ed3eb9252f7b75164923b3d605d94ead0231e1f575e371643eb42d7baf1992a4374ae0640f3bed191f63ba16390eb2d4c2e
+Homepage: https://cgit.freedesktop.org/mesa/drm/
+Description: Userspace interface to kernel DRM services -- common files
+ This library implements the userspace interface to the kernel DRM
+ services.  DRM stands for "Direct Rendering Manager", which is the
+ kernelspace portion of the "Direct Rendering Infrastructure" (DRI).
+ The DRI is currently used on Linux to provide hardware-accelerated
+ OpenGL drivers.
+ .
+ This package provides common files for libdrm.
+

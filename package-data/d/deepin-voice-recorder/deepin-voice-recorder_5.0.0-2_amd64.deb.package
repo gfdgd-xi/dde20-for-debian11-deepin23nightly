@@ -1,0 +1,23 @@
+Package: deepin-voice-recorder
+Architecture: amd64
+Version: 5.0.0-2
+Priority: optional
+Section: sound
+Maintainer: Debian Deepin Packaging Team <pkg-deepin-devel@lists.alioth.debian.org>
+Installed-Size: 315
+Depends: libavformat58 (>= 7:4.1), libc6 (>= 2.29), libdtkcore5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5multimedia5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.11.0~rc1), libstdc++6 (>= 5.2)
+Filename: ./d/deepin-voice-recorder/deepin-voice-recorder_5.0.0-2_amd64.deb
+Size: 65116
+MD5sum: 34b971277d94cb98674b88ef7f785f44
+SHA1: 4bdb641895c8b8fa0bca2e2247daaae5ccb64ee9
+SHA256: 9b0117ffe257bda5c2ab4033ed3e81a3c13ac4b51676322f932cc017277f285b
+SHA512: 86a6048102d6b2a1040fa69ea82c10be7f13cf397436f03dcd7029a3bcd3a19b8eae5074a63939f874875f041a9c85731f52900b350ff0eeb560b01fb39bf64b
+Homepage: https://github.com/linuxdeepin/deepin-voice-recorder
+Description: Deepin's Voice recorder
+ Deepin-voice-recorder is the default voice recorder for DDE (Deepin
+ Desktop Environment). It has a beautiful and easy-to-use voice recording
+ user interface with simple design. It supports voice recording, record
+ playback, record list management and other functions.
+ .
+ This package is part of DDE (Deepin Desktop Environment).
+

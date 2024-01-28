@@ -1,0 +1,25 @@
+Package: libboost-thread1.67.0
+Architecture: amd64
+Version: 1.67.0-13+deb10u1
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: boost1.67
+Maintainer: Debian Boost Team <team+boost@tracker.debian.org>
+Installed-Size: 2174
+Depends: libboost-atomic1.67.0, libboost-system1.67.0, libc6 (>= 2.14), libgcc1 (>= 1:3.0), libstdc++6 (>= 5.2)
+Filename: ./l/libboost-thread1.67.0/libboost-thread1.67.0_1.67.0-13+deb10u1_amd64.deb
+Size: 267556
+MD5sum: 55d6ea987af1043ab5985827d0246de4
+SHA1: bcb0d27a3bc54b3bb380c74f727bd2a1798f7143
+SHA256: dc4b0c793d9181677f85523b8f7c69268d0f9309f796a514af62638748491645
+SHA512: 1aa9a2cf29c4b076e8fa5f0ec5c7fc4908922d3e2844b1537b812cb967eef9cd298d5ed0a92bd03746f39bc8fa605b707343833a29d7b3eaef519c5692de4d0b
+Homepage: http://www.boost.org/libs/thread/
+Description: portable C++ multi-threading
+ This package forms part of the Boost C++ Libraries collection.
+ .
+ Toolkit for writing C++ programs that execute as multiple,
+ asynchronous, independent, threads-of-execution. Each thread has its
+ own machine state including program instruction counter and
+ registers.
+

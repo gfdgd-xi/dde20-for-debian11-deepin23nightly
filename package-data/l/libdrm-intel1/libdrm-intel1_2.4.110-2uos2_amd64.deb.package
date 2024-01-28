@@ -1,0 +1,24 @@
+Package: libdrm-intel1
+Architecture: amd64
+Version: 2.4.110-2uos2
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: libdrm
+Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
+Installed-Size: 186
+Depends: libc6 (>= 2.17), libdrm2 (>= 2.4.108), libpciaccess0
+Filename: ./l/libdrm-intel1/libdrm-intel1_2.4.110-2uos2_amd64.deb
+Size: 71792
+MD5sum: 2274e4ecf08a1d94efbed54953bba208
+SHA1: 9229fad76feab593cadda5ba4a95aa481e37d056
+SHA256: 9ce77ef6752378665c2d60e89fa2dd4cf98602ed20927ffd31b786e1c4a598ca
+SHA512: 2c2a8489f0256d93346907f4eb0cb118e6092e911945e69973d84602d3b5a217c775a39dce7f2a3bef9423ed13cf789af49cff65ccf098a7c357e1cb4a340e56
+Homepage: https://cgit.freedesktop.org/mesa/drm/
+Description: Userspace interface to intel-specific kernel DRM services -- runtime
+ This library implements the userspace interface to the kernel DRM
+ services.  DRM stands for "Direct Rendering Manager", which is the
+ kernelspace portion of the "Direct Rendering Infrastructure" (DRI).
+ The DRI is currently used on Linux to provide hardware-accelerated
+ OpenGL drivers.
+

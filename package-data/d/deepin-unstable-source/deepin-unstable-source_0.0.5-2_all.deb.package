@@ -1,0 +1,17 @@
+Package: deepin-unstable-source
+Architecture: all
+Version: 0.0.5-2
+Priority: optional
+Section: metapackages
+Maintainer: Deepin SYS Maintainers <lichenggang@uniontech.com>
+Installed-Size: 13
+Depends: deepin-desktop-base | deepin-desktop-server
+Filename: ./d/deepin-unstable-source/deepin-unstable-source_0.0.5-2_all.deb
+Size: 2012
+MD5sum: 4e2650dc4a8c76b8eed52c6f6d6abf8c
+SHA1: bf1add6e57550152c354966fbbc4bec9fe7fc466
+SHA256: f22671e2cf5912383b743d3f2bf295b3a56fb910853bcd3ba91dae7f76fded14
+SHA512: 638c2fc406df6b43d637c657be8f05b4d73a6a5a974f32fc24f5a338446801b6f9b2d303f6d23779e5f917872ad35601644c9f482be8bc17082b6ace46387f35
+Homepage: https://www.deepin.org
+Description: Deepin unstable source
+

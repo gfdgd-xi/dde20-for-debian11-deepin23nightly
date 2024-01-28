@@ -1,0 +1,18 @@
+Package: deepin-artwork
+Architecture: all
+Version: 2018.10.9-1
+Priority: optional
+Section: misc
+Maintainer: LiLongyu <lilongyu@linuxdeepin.com>
+Installed-Size: 10
+Depends: deepin-icon-theme, deepin-gtk-theme
+Suggests: grub-theme-deepin
+Filename: ./d/deepin-artwork/deepin-artwork_2018.10.9-1_all.deb
+Size: 1952
+MD5sum: bc6a94b73d33403b843ff0658363d4df
+SHA1: 3aaa96ab46cb20006c970be48c19297f24935d58
+SHA256: bdaf1780344ad1862862b3ee049ec54109e20559b432013cf307adafaf4992ee
+SHA512: 97f4c2bbddc88d3f20e1d08da81c4428683d001d5f152399aae2743c802ce57974f4f11b9c99e21067c8ee196e1c6591d385d4a598dde0844c5c25e984c81fbd
+Description: Deepin Artwork
+ This package is a meta package of Deepin Artworks.
+

@@ -1,0 +1,22 @@
+Package: dde
+Architecture: all
+Version: 2023.02.16
+Priority: standard
+Section: metapackages
+Maintainer: LinuxDeepin Project <linuxdeepin@linuxdeepin.com>
+Installed-Size: 11
+Depends: deepin-desktop-base | deepin-desktop-server, deepin-default-settings, dde-desktop, dde-dock, dde-launcher, dde-control-center (>> 2.90.5), startdde, dde-session-ui, deepin-artwork, deepin-manual, dde-file-manager, dde-qt5integration, eject, plymouth-theme-deepin-logo, deepin-wallpapers, fonts-noto, deepin-fix-init, dde-kwin, dde-clipboard, deepin-screensaver, dde-printer, dde-grand-search, deepin-pre-package, org.deepin.browser (>> 5.3.0.47-1), dde-dconfig-daemon, deepin-face, systemd-timesyncd
+Recommends: dde-qt5wayland-plugin, deepin-devicemanager, deepin-boot-maker, deepin-reader, deepin-log-viewer, dde-introduction, deepin-app-store, deepin-editor, deepin-system-monitor, pppoe, gvfs-fuse, smbclient, python-smbc, cups-filters, printer-driver-all, foomatic-db-compressed-ppds, foomatic-db-engine, openprinting-ppds, libsane-hpaio, linux-firmware, wireless-tools, ttf-deepin-opensymbol, deepin-terminal | gnome-terminal, printer-driver-hpcups, printer-driver-hpijs, libmtp-runtime, samsung-print, open-vm-tools-desktop, open-vm-tools, usbmuxd, ipheth-utils, libimobiledevice-dev, libimobiledevice-utils, dnsutils, libfile-mimeinfo-perl, deepin-shortcut-viewer, crda, network-manager-integration-plugins, dde-manual-content, libtxc-dxtn-s2tc0 | libtxc-dxtn-s2tc, libflashplugin-pepper, x-display-manager, deepin-music, deepin-image-viewer, dde-calendar, deepin-calculator, deepin-voice-note, deepin-screen-recorder, deepin-font-manager, deepin-draw, deepin-album, deepin-movie, deepin-deb-installer, deepin-compressor, fcitx-sunpinyin, fcitx-ui-classic, deepin-fcitxconfigtool-plugin
+Conflicts: dde-control-center (<< 2.90.5), deepin-appstore, deepin-cloud-scanner, deepin-desktop-environment-desktop, deepin-desktop-environment-dock, deepin-desktop-environment-launcher, deepin-user-experience-daemon, deepin-voice-recorder, mincores-dkms, org.deepin.browser (<< 5.3.0.48), printer-driver-deepin-cloud-print, warm-sched
+Filename: ./d/dde/dde_2023.02.16_all.deb
+Size: 4976
+MD5sum: d4e2bb2f81991b1266eae014b4905d81
+SHA1: 83a267601f8ae53a0a139daa2398937b87154617
+SHA256: 3c9b4215f5f57696bcae7a00b9d92276061b687dee2db48949c8140d43616a9c
+SHA512: 217829d76414b6cd0ae80017e37a4f325acafcde6ea8210f8ecc89cd9372af581158a0f5da33db6a9c68188bdc313f7b66b5f6adb8a891aaa5c8941680b50a4c
+Homepage: http://www.linuxdeepin.com
+Description: Deepin New Desktop Environment - Next
+ This is a meta package depends Deepin New Desktop Envrionment.
+ .
+ You can safety remove it after installed.
+

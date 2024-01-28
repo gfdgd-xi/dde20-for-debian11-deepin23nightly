@@ -1,0 +1,21 @@
+Package: deepin-prime
+Architecture: amd64
+Version: 1.0.3
+Priority: optional
+Section: admin
+Maintainer: Alberto Milone <alberto.milone@canonical.com>
+Installed-Size: 139
+Provides: hybrid-graphics
+Depends: python3:any (>= 3.2~), libc6 (>= 2.14), libdrm2 (>= 2.3.1), libkmod2 (>= 5~), libpci3 (>= 1:3.5.1), debconf (>= 0.5.00) | debconf-2.0, python3-click, udev (>= 204-0ubuntu4~), pciutils, usbutils, kmod | module-init-tools
+Conflicts: hybrid-graphics
+Replaces: hybrid-graphics
+Filename: ./d/deepin-prime/deepin-prime_1.0.3_amd64.deb
+Size: 32612
+MD5sum: 01df26d6e3972534a0eb739337fbe385
+SHA1: c97eac0132f97a9f75fc2644efc4762779ff54d8
+SHA256: 202ca15edda05b097880d1030e4738dd2c7539ddd8465b03d32bfe3216815cdb
+SHA512: 0584d5e2ff6bda3316fa152e15e882d526ad63c8efaa192d364110ed2c0b282c4a76a54872d7d6de7623329e6b935cd2884732ec268930c767b71f5c7ea70065
+Description: Tools to enable NVIDIA's Prime
+ This is a set of tools which will enable
+ NVIDIA's Prime on MUXless systems.
+

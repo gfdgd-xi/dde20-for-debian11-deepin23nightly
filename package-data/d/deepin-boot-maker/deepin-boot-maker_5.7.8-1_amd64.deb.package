@@ -1,0 +1,19 @@
+Package: deepin-boot-maker
+Architecture: amd64
+Version: 5.7.8-1
+Priority: standard
+Section: misc
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 3657
+Depends: p7zip-full, mtools, udisks2, syslinux, syslinux-common, genisoimage, dde-qt5integration
+Filename: ./d/deepin-boot-maker/deepin-boot-maker_5.7.8-1_amd64.deb
+Size: 1488784
+MD5sum: 6e12cc9a5fdad67c735d08c78e0aa533
+SHA1: aec002215b2ca3449a83ca6c1f4b716c6723d268
+SHA256: efbaff015d3a7efb1f70efa9da316e52505e4150f13a2ec998222f555d4c98b3
+SHA512: d7036ce10934fe0e37a3c85a391c6f0d6868106db4df152c098d192a720627089d030eca924be03887959163fff4a0155142d68971dbd5c7bb5dfd8c78df51a7
+Homepage: https://github.com/linuxdeepin/deepin-boot-maker
+Description: Simple tool for user to create a boot usb stick quickly and easily
+ It's designed to support deepin system iso, it can works for Debian and ubuntu
+ iso too.
+

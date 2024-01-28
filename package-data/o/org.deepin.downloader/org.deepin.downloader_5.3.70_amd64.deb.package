@@ -1,0 +1,19 @@
+Package: org.deepin.downloader
+Architecture: amd64
+Version: 5.3.70
+Priority: optional
+Section: utils
+Source: downloadmanager
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 3695
+Depends: libdlmaria2, libdlmcontrolui, libdlmdatabase, libdlmlog, libglib2.0-bin, dde-application-manager
+Filename: ./o/org.deepin.downloader/org.deepin.downloader_5.3.70_amd64.deb
+Size: 2941796
+MD5sum: f45c001b5ec16155d583798dc0fa3c09
+SHA1: a5cffe52b20288f878d3ea7721acb7b20bda6cf4
+SHA256: 22b319b3eb6f5861236e81e0053c07d676fb7a6b105968caaed8efdaead35308
+SHA512: 421ba7b1e3e46ed217f985283108438a97e00ec8fc0fb8ddf865cc6de6d311b9b39f67d0a6c5ee01c051c39a72aa684871fc89cc7aec12d6dda657a0a996cd6c
+Homepage: https://www.deepin.org/
+Description: it's a user-friendly download manager, supporting URLs and torrent files.
+ downloader for deepin desktop environment.
+

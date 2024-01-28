@@ -1,0 +1,20 @@
+Package: libdtksystemsettings-dev
+Architecture: amd64
+Version: 1.0.3-1
+Priority: optional
+Section: libdevel
+Source: dtksystemsettings
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 93
+Depends: libdtksystemsettings1 (= 1.0.3-1)
+Filename: ./l/libdtksystemsettings-dev/libdtksystemsettings-dev_1.0.3-1_amd64.deb
+Size: 15160
+MD5sum: 52377907cc7eb90040b1367953736133
+SHA1: 7e49606a3cefbe7364e0fc428af16e92b33e79c1
+SHA256: e2b4eed2be2c1e031e7f2e90edc2bd1de047f04d234eded05aafcf0fa6345514
+SHA512: 1ab79c5362a7afb4f0e540d72abaf0e856bf15f0ba0a5bd2d8daa17515b0b6756fa4077ebdd2c8a189bca41bd2a3b4d160e2e59acb24804af501e4b494fbaa43
+Description: Deepin Tool Kit template devel library
+ libdtksystemsettings-dev is base devel library of Deepin Qt/C++ applications.
+ .
+ This package contains the header files and static libraries.
+

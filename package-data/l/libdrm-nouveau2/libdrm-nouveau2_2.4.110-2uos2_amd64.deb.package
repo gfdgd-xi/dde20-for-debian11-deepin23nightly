@@ -1,0 +1,24 @@
+Package: libdrm-nouveau2
+Architecture: amd64
+Version: 2.4.110-2uos2
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: libdrm
+Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
+Installed-Size: 82
+Depends: libc6 (>= 2.14), libdrm2 (>= 2.4.108)
+Filename: ./l/libdrm-nouveau2/libdrm-nouveau2_2.4.110-2uos2_amd64.deb
+Size: 27592
+MD5sum: 219ddbe295a6c62f26873f530fb3856c
+SHA1: e4aae660bd81ad402875626e6ef9f3b63b73a4ef
+SHA256: 1d196a5cf6de66cb05493f25736a0484827bac28294bb6bec4617f3b1d1bb9fe
+SHA512: f9fd8e169eb3c82bab3262b5010f77bb042d25e7c269a151571b6fee67b44a6ea38a3d430aae4cf74509b9092664994385ce58913693893eb2cddd170c5d4c94
+Homepage: https://cgit.freedesktop.org/mesa/drm/
+Description: Userspace interface to nouveau-specific kernel DRM services -- runtime
+ This library implements the userspace interface to the kernel DRM
+ services.  DRM stands for "Direct Rendering Manager", which is the
+ kernelspace portion of the "Direct Rendering Infrastructure" (DRI).
+ The DRI is currently used on Linux to provide hardware-accelerated
+ OpenGL drivers.
+

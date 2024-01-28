@@ -1,0 +1,24 @@
+Package: libdrm-radeon1
+Architecture: amd64
+Version: 2.4.110-2uos2
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: libdrm
+Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
+Installed-Size: 95
+Depends: libc6 (>= 2.4), libdrm2 (>= 2.4.108)
+Filename: ./l/libdrm-radeon1/libdrm-radeon1_2.4.110-2uos2_amd64.deb
+Size: 30856
+MD5sum: a31573e8618c56487d8dee5ced128f25
+SHA1: 3b28747d5d5a96b333cc5f4c0266ba78aaf2c6ba
+SHA256: aa00fa82ae6020d1a8fe03c16274a8e778dd3907050d0431274ac1916b93e71c
+SHA512: 60a6cb9d1d4581739671f08550021bf80d660c574361e352d77a07f96ded8631d6a53993144e252286029219be62cf1ddb28a7ad1db5d6b03450e06ad87127ba
+Homepage: https://cgit.freedesktop.org/mesa/drm/
+Description: Userspace interface to radeon-specific kernel DRM services -- runtime
+ This library implements the userspace interface to the kernel DRM
+ services.  DRM stands for "Direct Rendering Manager", which is the
+ kernelspace portion of the "Direct Rendering Infrastructure" (DRI).
+ The DRI is currently used on Linux to provide hardware-accelerated
+ OpenGL drivers.
+

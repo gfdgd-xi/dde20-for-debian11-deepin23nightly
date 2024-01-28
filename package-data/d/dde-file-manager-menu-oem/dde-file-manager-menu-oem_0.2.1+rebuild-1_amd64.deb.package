@@ -1,0 +1,18 @@
+Package: dde-file-manager-menu-oem
+Architecture: amd64
+Version: 0.2.1+rebuild-1
+Priority: optional
+Section: admin
+Maintainer: Deepin Package Builder <packages@deepin.com>
+Installed-Size: 66
+Depends: libc6 (>= 2.14), libdde-file-manager, libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5widgets5 (>= 5.0.2), libqt5xdg3 (>= 3.1.0), libstdc++6 (>= 5)
+Filename: ./d/dde-file-manager-menu-oem/dde-file-manager-menu-oem_0.2.1+rebuild-1_amd64.deb
+Size: 17704
+MD5sum: 21c14e5fb8f558fb6ea5da4d7fd9182a
+SHA1: 5ffbd235cbd9b67823236ef05bc388919bcf5bb6
+SHA256: 40eff1e4a168a562849aea5122edbf6ba0a5e5327e43dbe4ea8ca4ba9b020bc2
+SHA512: 9e01828ba6072bc5ad53797e48abe0e1146c83a00d787c820326b281f1bbb85d39180303cdf52933fa8d212cdb149bbfc2ecf2200084169579df8559aa198ee4
+Homepage: https://www.deepin.org/
+Description: OEM menu extension support for Deepin File Manager
+ Which allow user add extra menu entry to the file manager app.
+

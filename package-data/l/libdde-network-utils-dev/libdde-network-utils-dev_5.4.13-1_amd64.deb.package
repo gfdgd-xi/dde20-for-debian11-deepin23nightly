@@ -1,0 +1,19 @@
+Package: libdde-network-utils-dev
+Architecture: amd64
+Version: 5.4.13-1
+Priority: optional
+Section: libdevel
+Source: dde-network-utils
+Maintainer: listenerri <listenerri@gmail.com>
+Installed-Size: 45
+Depends: libdde-network-utils
+Filename: ./l/libdde-network-utils-dev/libdde-network-utils-dev_5.4.13-1_amd64.deb
+Size: 6948
+MD5sum: fa9158f9690b0b6abf59b88f31f6f43d
+SHA1: f9190b1cdc8a3ccad5c03be717b3c9aa939e90cf
+SHA256: 9b5638f6b336b60e1e7b8022d43640bcd5766231235866e9856afcdcaa58609f
+SHA512: 21a4663a7cbbf00c0c13fe2520ded802e2eb9995078187354beac016dd9ef6bdc2540517cebd713e284711f97c3b4aef2d881877a185313258674ec06db56a77
+Homepage: https://github.com/linuxdeepin/dde-network-utils
+Description: dde network utils dev
+ dde network utils dev module.
+
