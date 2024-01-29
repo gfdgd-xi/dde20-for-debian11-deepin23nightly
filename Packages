@@ -2016,6 +2016,24 @@ Description: C++ logging library
   * Performance. The library should have as little performance impact on
  the user's application as possible.
 
+Package: libdeepin-unioncode-dev
+Architecture: amd64
+Version: 1.2.8
+Priority: optional
+Section: libdevel
+Source: deepin-unioncode
+Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
+Installed-Size: 79
+Filename: ./l/libdeepin-unioncode-dev/libdeepin-unioncode-dev_1.2.8_amd64.deb
+Size: 13008
+MD5sum: 7a295b83bb88a15a070c1f3677280a39
+SHA1: e39a5d438bcf6a1336ea58fcb297533009f6f98f
+SHA256: f5765d2dcc4976905505d9d5a92734879ad7a614487d5443b0517b52f9cf8edd
+SHA512: 5ed17a7da6f9e2af3398dfac49bcf46a0605bbb2f43ba55c95ff16fc610cabccf12cb8efacfb1b4acc6cd5c1f69e416ccb02f8ba020f03873612b18d4f54ee40
+Homepage: http://www.deepin.org
+Description: IDE 'Union Code' devel library
+ IDE 'Union Code' development can be carried out through this library
+
 Package: libdtkmultimedia
 Architecture: amd64
 Version: 1.0.6-1
@@ -2674,6 +2692,24 @@ SHA512: 13628d24ed8ae4320fc2b43c387354d4c7fce8244c02439cccb2252d34d36cd29c461bb1
 Homepage: http://www.deepin.org
 Description: Device formatter
  A simple graphical interface for creating file system in a block device.
+
+Package: deepin-unioncode
+Architecture: amd64
+Version: 1.2.8
+Priority: optional
+Section: libdevel
+Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
+Installed-Size: 108391
+Recommends: cmake, make, gdb, g++, gcc, git, npm, clangd-13
+Filename: ./d/deepin-unioncode/deepin-unioncode_1.2.8_amd64.deb
+Size: 72394388
+MD5sum: eba9daa1daf410fd532dd640b41369d6
+SHA1: f5614f99befc04015b6ab5ad8543ae474b49fb7f
+SHA256: 2b7062d123ec15c27255ea5416f8727c29f99d69a167668cd68a54ddaef07897
+SHA512: 22dd58ef6bae32bd845ce7d3725d679eed0d8f67024733a30ddb39631d8588267384d02b6cc92a4df9d52373035db79a5d2353247599a7b96dc6b30cfb2288af
+Homepage: http://www.deepin.org
+Description: IDE 'Deepin Union Code'
+ Lightweight cross-platform integrated development environment
 
 Package: deepin-compressor
 Architecture: amd64

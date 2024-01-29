@@ -1,0 +1,18 @@
+Package: deepin-unioncode
+Architecture: amd64
+Version: 1.2.8
+Priority: optional
+Section: libdevel
+Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
+Installed-Size: 108391
+Recommends: cmake, make, gdb, g++, gcc, git, npm, clangd-13
+Filename: ./d/deepin-unioncode/deepin-unioncode_1.2.8_amd64.deb
+Size: 72394388
+MD5sum: eba9daa1daf410fd532dd640b41369d6
+SHA1: f5614f99befc04015b6ab5ad8543ae474b49fb7f
+SHA256: 2b7062d123ec15c27255ea5416f8727c29f99d69a167668cd68a54ddaef07897
+SHA512: 22dd58ef6bae32bd845ce7d3725d679eed0d8f67024733a30ddb39631d8588267384d02b6cc92a4df9d52373035db79a5d2353247599a7b96dc6b30cfb2288af
+Homepage: http://www.deepin.org
+Description: IDE 'Deepin Union Code'
+ Lightweight cross-platform integrated development environment
+
